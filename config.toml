@@ -1,0 +1,10 @@
+baseURL = 'https://rizaldev.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "anatole"
+enableEmoji = true
+
+[params]
+title = "Asvarizal Daily Blog"
+author = "Asvarizal Filcha"
+description =  "All about Asvarizal Filcha"
